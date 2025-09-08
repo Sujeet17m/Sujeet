@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sujeet (Sujeet17m)
+# Hi 👋, I'm Sujeet 
 
 <h3 align="center">B.Tech CSE • Full-Stack Developer • Data Analyst • Web3 Curious • Lifelong Learner</h3>
 
@@ -86,11 +86,3 @@
 - Start blogging short technical posts (1 per month) summarizing learnings.
 
 ---
-
-## 📝 Quick tips for this README
-1. Create a repository named exactly `Sujeet17m` (your username).  
-2. Paste this `README.md` into that repo's root — GitHub will render it on your profile.  
-3. Pin your featured repos on your profile so they show at the top.  
-4. Replace example project links with your real repo links and add short screenshots in each project README.
-
---- 
